@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm LXGIC 👋</h1>
-<p align="center">Founder of <a href="https://github.com/LXGIC-Studios">LXGIC Studios</a>. Building open source AI dev tools.</p>
+<h1 align="center">Hey, I'm Zhi 👋</h1>
+<p align="center">I run <a href="https://github.com/LXGIC-Studios">LXGIC Studios</a>. We make free AI dev tools you can run with one command.</p>
 
 <p align="center">
   <a href="https://x.com/lxgicstudios"><img src="https://img.shields.io/badge/%F0%9D%95%8F-@lxgicstudios-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -9,34 +9,38 @@
 
 ---
 
-### What I'm building
+### What's this about
 
-I make AI dev tools that run with a single `npx` command. No installs, no API keys, no signup walls.
+I got tired of doing the same boring dev tasks over and over. Writing commit messages, creating READMEs, making OG images. So I started building CLI tools that do it for me.
 
-Every tool is free and open source under [@LXGIC-Studios](https://github.com/LXGIC-Studios).
+They're all open source, free, and you don't need to install anything. Just `npx` and go.
 
-### Tools I've shipped
+### Stuff I've shipped
 
 ```bash
-npx ai-og-image "Your Title"    # Generate OG images with AI
-npx ai-readme-gen                # Auto-generate READMEs
-npx ai-commit                    # AI git commit messages
-npx ai-env-gen                   # Generate .env from your code
-npx ai-alt-text                  # AI alt text for images
-npx ai-pdf-builder ai whitepaper "Your topic"  # AI PDFs
+npx ai-og-image "Your Title"    # makes OG images from a prompt
+npx ai-readme-gen                # writes your README by reading your code
+npx ai-commit                    # looks at your diff, writes the commit
+npx ai-env-gen                   # scans your code, builds the .env
+npx ai-alt-text                  # generates alt text for your images
+npx ai-pdf-builder ai whitepaper "topic"  # spits out a full PDF
 ```
 
-### What I write about
+More on the way. I try to ship one a week.
 
-- [LXGIC Substack](https://lxgicstudios.substack.com) - AI dev tools and the builder's perspective
-- [Whale Factor](https://whalefactor.substack.com) - Crypto markets and macro
+### Writing
 
-### Currently
+I write about the stuff I'm building and things I'm figuring out along the way.
 
-- Shipping npm tools weekly
-- Writing about AI dev tooling
-- Building [LXGIC Studios](https://github.com/LXGIC-Studios) as an open source brand
+- [LXGIC on Substack](https://lxgicstudios.substack.com) – AI tools, dev workflows, building in public
+- [Whale Factor](https://whalefactor.substack.com) – crypto and macro
+
+### Right now
+
+- Shipping new CLI tools every week
+- Growing [@LXGIC-Studios](https://github.com/LXGIC-Studios) as an open source org
+- Writing about what's working and what isn't
 
 ---
 
-<p align="center"><sub>All tools are MIT licensed. Use them, fork them, ship something cool.</sub></p>
+<p align="center"><sub>Everything's MIT. Take it, fork it, build something cool with it.</sub></p>
