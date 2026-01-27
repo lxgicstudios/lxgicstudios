@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zhi 👋</h1>
+<h1 align="center">Hey, I'm LXGIC 👋</h1>
 <p align="center">Founder of <a href="https://github.com/LXGIC-Studios">LXGIC Studios</a>. Building open source AI dev tools.</p>
 
 <p align="center">
