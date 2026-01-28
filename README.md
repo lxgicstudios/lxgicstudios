@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zhi 👋</h1>
+<h1 align="center">Hey, I'm LXGIC 👋</h1>
 <p align="center">I run <a href="https://github.com/LXGIC-Studios">LXGIC Studios</a>. We make free AI dev tools you can run with one command.</p>
 
 <p align="center">
