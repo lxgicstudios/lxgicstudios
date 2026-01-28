@@ -33,7 +33,6 @@ More on the way. I try to ship one a week.
 I write about the stuff I'm building and things I'm figuring out along the way.
 
 - [LXGIC on Substack](https://lxgicstudios.substack.com) – AI tools, dev workflows, building in public
-- [Whale Factor](https://whalefactor.substack.com) – crypto and macro
 
 ### Right now
 
