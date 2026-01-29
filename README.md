@@ -1,44 +1,184 @@
-<h1 align="center">Hey, I'm LXGIC 👋</h1>
-<p align="center">I run <a href="https://github.com/LXGIC-Studios">LXGIC Studios</a>. We make free AI dev tools you can run with one command.</p>
+<h1 align="center">Hey, I'm LXGIC üëã</h1>
+<p align="center">I build free AI dev tools you can run with one command. No installs. No config. Just npx and go.</p>
 
 <p align="center">
   <a href="https://x.com/lxgicstudios"><img src="https://img.shields.io/badge/%F0%9D%95%8F-@lxgicstudios-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://youtube.com/@lxgicstudios"><img src="https://img.shields.io/badge/YouTube-@lxgicstudios-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://lxgicstudios.substack.com"><img src="https://img.shields.io/badge/Substack-LXGIC-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
   <a href="https://www.npmjs.com/~lxgicstudios"><img src="https://img.shields.io/badge/npm-lxgicstudios-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="https://lxgicstudios.com"><img src="https://img.shields.io/badge/Web-lxgicstudios.com-blue?style=flat-square" alt="Website" /></a>
 </p>
 
 ---
 
-### What's this about
+## What I'm Building
 
-I got tired of doing the same boring dev tasks over and over. Writing commit messages, creating READMEs, making OG images. So I started building CLI tools that do it for me.
+110+ free CLI tools that solve real dev problems. Every single one is open source.
 
-They're all open source, free, and you don't need to install anything. Just `npx` and go.
+### üß™ Testing & Quality
 
-### Stuff I've shipped
+| Tool | What it does |
+|------|-------------|
+| `npx ai-test-gen` | Generate unit tests from source files |
+| `npx ai-e2e-gen` | Generate end-to-end test scenarios |
+| `npx ai-coverage-boost` | Add tests to increase code coverage |
+| `npx ai-snapshot-test` | Generate snapshot tests |
+| `npx ai-roast` | Get brutally honest code feedback |
+| `npx ai-code-review` | AI code review before you commit |
 
-```bash
-npx ai-og-image "Your Title"    # makes OG images from a prompt
-npx ai-readme-gen                # writes your README by reading your code
-npx ai-commit                    # looks at your diff, writes the commit
-npx ai-env-gen                   # scans your code, builds the .env
-npx ai-alt-text                  # generates alt text for your images
-npx ai-pdf-builder ai whitepaper "topic"  # spits out a full PDF
-```
+### üîí Security
 
-More on the way. I try to ship one a week.
+| Tool | What it does |
+|------|-------------|
+| `npx ai-secret-scan` | Find leaked secrets in your code |
+| `npx ai-xss-check` | Detect XSS vulnerabilities |
+| `npx ai-sql-check` | Find SQL injection risks |
+| `npx ai-auth-check` | Audit authentication flows |
+| `npx ai-permission` | Review permission patterns |
+| `npx ai-csp` | Generate Content Security Policy |
 
-### Writing
+### üé® Frontend & UI
 
-I write about the stuff I'm building and things I'm figuring out along the way.
+| Tool | What it does |
+|------|-------------|
+| `npx ai-component` | Generate React/Vue components |
+| `npx ai-form` | Build forms from descriptions |
+| `npx ai-animation` | Create CSS/JS animations |
+| `npx ai-responsive` | Make layouts responsive |
+| `npx ai-dark-mode` | Add dark mode support |
+| `npx ai-css-to-tailwind` | Convert CSS to Tailwind |
+| `npx ai-a11y` | Fix accessibility issues |
+| `npx ai-storybook` | Generate Storybook stories |
 
-- [LXGIC on Substack](https://lxgicstudios.substack.com) – AI tools, dev workflows, building in public
+### ‚öôÔ∏è Backend & APIs
 
-### Right now
+| Tool | What it does |
+|------|-------------|
+| `npx ai-middleware` | Generate Express/Fastify middleware |
+| `npx ai-swagger` | Generate OpenAPI specs |
+| `npx ai-validator` | Create input validation schemas |
+| `npx ai-webhook` | Build webhook handlers |
+| `npx ai-error-handler` | Generate error handling |
+| `npx ai-logger` | Set up logging |
+| `npx ai-rate-limit` | Add rate limiting |
+| `npx ai-cors` | Configure CORS properly |
 
-- Shipping new CLI tools every week
-- Growing [@LXGIC-Studios](https://github.com/LXGIC-Studios) as an open source org
-- Writing about what's working and what isn't
+### üóÑÔ∏è Database
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-prisma-gen` | Generate Prisma schemas |
+| `npx ai-supabase-gen` | Generate Supabase schemas |
+| `npx ai-schema` | Design database schemas |
+| `npx ai-migrate` | Generate migration files |
+| `npx ai-seed` | Create seed data |
+| `npx ai-index` | Suggest database indexes |
+| `npx ai-query-optimize` | Optimize slow queries |
+| `npx ai-sql` | Generate SQL from natural language |
+
+### üîß Git & Workflow
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-commit` | Write commit messages from diffs |
+| `npx ai-branch` | Suggest branch names |
+| `npx ai-pr-desc` | Generate PR descriptions |
+| `npx ai-merge-resolve` | Resolve merge conflicts |
+| `npx ai-diff-summary` | Summarize code changes |
+| `npx ai-changelog` | Generate changelogs |
+| `npx ai-release-notes` | Write release notes |
+| `npx ai-stash-name` | Name your stashes |
+
+### üöÄ DevOps & Infra
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-dockerfile` | Generate Dockerfiles |
+| `npx ai-docker-compose` | Create docker-compose files |
+| `npx ai-k8s` | Generate Kubernetes manifests |
+| `npx ai-terraform` | Generate Terraform configs |
+| `npx ai-nginx` | Generate nginx configs |
+| `npx ai-github-action` | Create GitHub Actions workflows |
+| `npx ai-ci` | Set up CI pipelines |
+| `npx ai-vercel-config` | Configure Vercel deployments |
+| `npx ai-cloudflare` | Set up Cloudflare |
+
+### üìù Documentation
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-readme` | Generate READMEs from code |
+| `npx ai-api-docs` | Generate API documentation |
+| `npx ai-comment` | Add code comments |
+| `npx ai-docs` | Generate project docs |
+| `npx ai-onboard` | Create onboarding guides |
+| `npx ai-wiki` | Generate wiki pages |
+| `npx ai-adr` | Write architecture decisions |
+
+### ‚ö° Performance
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-lighthouse` | Fix Lighthouse issues |
+| `npx ai-core-vitals` | Optimize Core Web Vitals |
+| `npx ai-bundle-check` | Analyze bundle size |
+| `npx ai-image-optimize` | Optimize images |
+| `npx ai-lazy-load` | Add lazy loading |
+| `npx ai-prefetch` | Set up prefetching |
+| `npx ai-cache-strategy` | Design caching strategies |
+
+### üõ†Ô∏è Config & Setup
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-tsconfig` | Generate TypeScript configs |
+| `npx ai-eslint-config` | Set up ESLint |
+| `npx ai-gitignore` | Generate .gitignore files |
+| `npx ai-env-sync` | Sync environment variables |
+| `npx ai-husky` | Set up git hooks |
+| `npx ai-monorepo` | Configure monorepos |
+| `npx ai-next-config` | Configure Next.js |
+
+### üéØ Productivity
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-regex` | Generate regex from descriptions |
+| `npx ai-cron-gen` | Generate cron expressions |
+| `npx ai-mock-data` | Generate mock/test data |
+| `npx ai-explain` | Explain code in plain English |
+| `npx ai-refactor` | Suggest refactoring |
+| `npx ai-naming` | Suggest variable/function names |
+| `npx ai-snippet` | Generate code snippets |
+| `npx ai-script` | Generate shell scripts |
+
+### üíº Career & Content
+
+| Tool | What it does |
+|------|-------------|
+| `npx ai-resume` | Generate dev resumes |
+| `npx ai-cover-letter` | Write cover letters |
+| `npx ai-interview` | Prep for tech interviews |
+| `npx ai-pitch` | Create project pitches |
+| `npx ai-landing` | Generate landing page copy |
+| `npx ai-meta-tags` | Generate SEO meta tags |
+| `npx ai-social` | Create social media content |
+| `npx ai-og-image` | Generate OG images |
+
+---
+
+## Why I Build These
+
+I got tired of doing the same boring dev tasks over and over. Writing commit messages, creating READMEs, making OG images, debugging regex. So I started building tools that do it for me.
+
+They're all free, open source, and you don't need to install anything. Just `npx` and go.
+
+## Follow the Journey
+
+- **X/Twitter**: [@lxgicstudios](https://x.com/lxgicstudios) - daily AI dev content
+- **YouTube**: [@lxgicstudios](https://youtube.com/@lxgicstudios) - tutorials and demos
+- **Substack**: [lxgicstudios.substack.com](https://lxgicstudios.substack.com) - deep dives
+- **Website**: [lxgicstudios.com](https://lxgicstudios.com)
 
 ---
 
